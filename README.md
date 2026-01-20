@@ -1,7 +1,5 @@
 # NLBConfiguretion
 
-# NLBConfiguretion
-
 This repository contains Terraform code to create an AWS Network Load Balancer (NLB) along with supporting infrastructure such as VPC, subnets, security groups, target groups, and EC2 instances.
 
 # 📌 Overview
