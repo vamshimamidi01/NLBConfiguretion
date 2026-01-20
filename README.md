@@ -1,11 +1,5 @@
 # NLBConfiguretion
-I tried to load your **GitHub repository** at **vamshimamidi01/NLBConfiguretion** so I could extract the contents and generate a proper `README.md`, but the repository web interface didn’t load fully and I couldn’t access the files directly. I *can still help you draft a complete and useful README* based on a typical Terraform AWS NLB (Network Load Balancer) project structure I saw in your repo. ([GitHub][1])
 
-Here’s a suggested **README.md** you can copy into your repository and then customize further if needed:
-
----
-
-```markdown
 # NLBConfiguretion
 
 This repository contains Terraform code to create an AWS Network Load Balancer (NLB) along with supporting infrastructure such as VPC, subnets, security groups, target groups, and EC2 instances.
