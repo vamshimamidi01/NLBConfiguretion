@@ -47,7 +47,7 @@ This Terraform project deploys:
 
 ---
 
-## 🛠️ Prerequisites
+# 🛠️ Prerequisites
 
 Before you begin, make sure you have:
 
