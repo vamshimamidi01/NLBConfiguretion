@@ -47,7 +47,7 @@ This Terraform project deploys:
 
 ---
 
-# 🛠️ Prerequisites
+# Prerequisites
 
 Before you begin, make sure you have:
 
@@ -57,7 +57,7 @@ Before you begin, make sure you have:
 
 ---
 
-## ⚡ Deployment Steps
+## Deployment Steps
 
 1. Clone the repository:
 
@@ -88,7 +88,7 @@ Before you begin, make sure you have:
 
 ---
 
-## 📌 Outputs
+##  Outputs
 
 After successful deployment, Terraform will output information such as:
 
@@ -100,7 +100,7 @@ These can be used to verify the setup or connect to deployed resources.
 
 ---
 
-## 🧹 Cleanup
+##  Cleanup
 
 To remove all AWS resources created with this project:
 
@@ -119,7 +119,7 @@ terraform destroy
 
 ---
 
-## 🧡 Contributions
+## Contributions
 
 Contributions and suggestions are welcome!
 
@@ -133,7 +133,7 @@ This project is licensed under the MIT License.
 
 ---
 
-### 📌 What’s next?
+# What’s next?
 
 If you want, I can:
 
